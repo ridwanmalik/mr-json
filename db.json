@@ -1,14 +1,89 @@
 {
-  "users": [
+  "roles": [
     {
       "id": 1,
-      "username": "admin",
-      "password": "12345"
+      "name": "admin"
     },
     {
       "id": 2,
-      "username": "ridwan",
-      "password": "12345"
+      "username": "employee"
+    },
+    {
+      "id": 3,
+      "username": "customer"
+    },
+    {
+      "id": 4,
+      "username": "guest"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "roleId": 1,
+      "name": "admin",
+      "phone": "12345"
+    },
+    {
+      "id": 2,
+      "roleId": 2,
+      "name": "ridwan",
+      "phone": "12345"
+    },
+    {
+      "id": 3,
+      "roleId": 3,
+      "name": "user",
+      "phone": "12345"
+    }
+  ],
+  "options": [
+    {
+      "id": 1,
+      "name": "Hair Size",
+      "value": [
+        "Men",
+        "Women Short Hair",
+        "Medium Hair",
+        "Long Hair"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Hair Type",
+      "value": [
+        "Straight",
+        "Wavy",
+        "Curly",
+        "Frizzy"
+      ]
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "name": "Haircut",
+      "price": "100"
+    },
+    {
+      "id": 2,
+      "name": "Styling",
+      "price": "120"
+    },
+    {
+      "id": 3,
+      "name": "Color",
+      "price": "40"
+    }
+  ],
+  "bookings": [
+    {
+      "id": 1,
+      "employeeId": 2,
+      "customerId": 3,
+      "servicesId": 1,
+      "paymentStatus": false,
+      "dateTime": "2021-19-08T08:02:17-05:00"
     }
   ]
 }
