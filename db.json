@@ -41,21 +41,45 @@
     {
       "id": 1,
       "name": "Hair Size",
-      "value": [
-        "Men",
-        "Women Short Hair",
-        "Medium Hair",
-        "Long Hair"
+      "option": [
+        {
+          "name": "Men",
+          "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6"
+        },
+        {
+          "name": "Women Short Hair",
+          "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6"
+        },
+        {
+          "name": "Medium Hair",
+          "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6"
+        },
+        {
+          "name": "Long Hair",
+          "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6"
+        }
       ]
     },
     {
       "id": 2,
       "name": "Hair Type",
-      "value": [
-        "Straight",
-        "Wavy",
-        "Curly",
-        "Frizzy"
+      "option": [
+        {
+          "name": "Straight",
+          "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6"
+        },
+        {
+          "name": "Wavy",
+          "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6"
+        },
+        {
+          "name": "Curly",
+          "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6"
+        },
+        {
+          "name": "Frizzy",
+          "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6"
+        }
       ]
     }
   ],
