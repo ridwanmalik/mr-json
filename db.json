@@ -70,19 +70,23 @@
       "option": [
         {
           "name": "Straight",
-          "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6"
+          "image": "https://i.imgur.com/7vCn1yJ.png",
+          "imageLight": "https://i.imgur.com/kIWAVxr.png"
         },
         {
           "name": "Wavy",
-          "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6"
+          "image": "https://i.imgur.com/LtIFgcE.png",
+          "imageLight": "https://i.imgur.com/Y0QKgBx.png"
         },
         {
           "name": "Curly",
-          "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6"
+          "image": "https://i.imgur.com/Vyqq1C9.png",
+          "imageLight": "https://i.imgur.com/RLNnzyP.png"
         },
         {
           "name": "Frizzy",
-          "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6"
+          "image": "https://i.imgur.com/cI6bg3v.png",
+          "imageLight": "https://i.imgur.com/pxxWlxp.png"
         }
       ]
     }
