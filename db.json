@@ -96,18 +96,21 @@
       "id": 1,
       "employeeId": 2,
       "name": "Haircut",
+      "time": "40 minutes",
       "price": "100"
     },
     {
       "id": 2,
       "employeeId": 2,
       "name": "Styling",
+      "time": "120 minutes",
       "price": "120"
     },
     {
       "id": 3,
-      "name": "Color",
       "employeeId": 2,
+      "name": "Color",
+      "time": "20 minutes",
       "price": "40"
     }
   ],
