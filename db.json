@@ -44,19 +44,23 @@
       "option": [
         {
           "name": "Men",
-          "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6"
+          "image": "https://i.imgur.com/bKp1dq2.png",
+          "imageLight": "https://i.imgur.com/0lWQ4Yy.png"
         },
         {
           "name": "Women Short Hair",
-          "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6"
+          "image": "https://i.imgur.com/nkXm51q.png",
+          "imageLight": "https://i.imgur.com/kyWUX8k.png"
         },
         {
           "name": "Medium Hair",
-          "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6"
+          "image": "https://i.imgur.com/RZx1XRU.png",
+          "imageLight": "https://i.imgur.com/iWSio1g.png"
         },
         {
           "name": "Long Hair",
-          "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6"
+          "image": "https://i.imgur.com/TudBEeg.png",
+          "imageLight": "https://i.imgur.com/kKumdXJ.png"
         }
       ]
     },
