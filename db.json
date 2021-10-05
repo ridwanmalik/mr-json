@@ -22,18 +22,21 @@
       "id": 1,
       "roleId": 1,
       "name": "admin",
+      "designation": "Admin",
       "phone": "12345"
     },
     {
       "id": 2,
       "roleId": 2,
-      "name": "ridwan",
+      "name": "Ridwan Malik",
+      "designation": "Hair Stylist",
       "phone": "12345"
     },
     {
       "id": 3,
       "roleId": 3,
       "name": "user",
+      "designation": "Customer",
       "phone": "12345"
     }
   ],
