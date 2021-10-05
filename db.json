@@ -97,21 +97,35 @@
       "employeeId": 2,
       "name": "Haircut",
       "time": "40 minutes",
-      "price": "100"
+      "price": 100
     },
     {
       "id": 2,
       "employeeId": 2,
       "name": "Styling",
       "time": "120 minutes",
-      "price": "120"
+      "price": 120
     },
     {
       "id": 3,
       "employeeId": 2,
       "name": "Color",
       "time": "20 minutes",
-      "price": "40"
+      "price": 40
+    },
+    {
+      "id": 4,
+      "employeeId": 2,
+      "name": "Haircut + Color",
+      "time": "60 minutes",
+      "price": 140
+    },
+    {
+      "id": 5,
+      "employeeId": 2,
+      "name": "Haircut + Styling",
+      "time": "60 minutes",
+      "price": 200
     }
   ],
   "bookings": [
