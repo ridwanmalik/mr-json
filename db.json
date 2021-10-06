@@ -23,21 +23,30 @@
       "roleId": 1,
       "name": "admin",
       "designation": "Admin",
-      "phone": "12345"
+      "phone": "12345",
+      "email": "admin@example.com",
+      "password": "12345",
+      "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6"
     },
     {
       "id": 2,
       "roleId": 2,
       "name": "Ridwan Malik",
       "designation": "Hair Stylist",
-      "phone": "12345"
+      "phone": "12345",
+      "email": "ridwan@example.com",
+      "password": "12345",
+      "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6"
     },
     {
       "id": 3,
       "roleId": 3,
       "name": "user",
       "designation": "Customer",
-      "phone": "12345"
+      "phone": "12345",
+      "email": "user@example.com",
+      "password": "12345",
+      "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6"
     }
   ],
   "options": [
